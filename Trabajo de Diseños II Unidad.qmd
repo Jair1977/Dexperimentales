@@ -6,9 +6,8 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Diseño experimental
-
-$$\text{npg} = \mu + \text{bloque} + \text{trt} + e$$
+# ANOVA
+$$Y_{ij} = \mu + \tau_i +\beta_j + \varepsilon_{ij}$$
 
 # Cargar paquetes
 ```{r}
